@@ -2,6 +2,11 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #b32db3;
     color: #ffffff;
+  }
+
+  .linkies {
+    font-size: 800px;
   }
